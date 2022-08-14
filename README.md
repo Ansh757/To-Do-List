@@ -1,5 +1,5 @@
 # To-Do-List
-Implemented a To-do List using Node js, and Mongoose DB.
+Implemented a To-do List using Node js, and MongoDB (Mongoose).
 
 Upon Download, visit the following link to download MongoDB: https://www.mongodb.com/docs/manual/administration/install-community/ 
 
